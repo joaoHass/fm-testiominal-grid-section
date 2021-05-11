@@ -167,7 +167,7 @@ h4 {
   }
 
   .card {
-    height: 16.75rem;
+    min-height: 16.75rem;
     padding: 1em 2em 1em 2em;
   }
 
